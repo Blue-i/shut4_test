@@ -1,0 +1,3 @@
+[submodule "shuttercontrol"]
+	path = shuttercontrol
+	url = git@github.com:ragnarula/blue-i_shuttercontrol.git
